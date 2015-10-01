@@ -1,5 +1,5 @@
 # Arduino-MDX
 Repositorio de proyectos con Arduino <br>
--Ejemplos
--Practicas
+-Ejemplos<br>
+-Practicas<br>
 -Recursos
